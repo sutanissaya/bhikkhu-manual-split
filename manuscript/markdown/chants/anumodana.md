@@ -21,7 +21,7 @@
 
 *Just as Rivers*
 
-Yathā vāri-vahā pūrā paripūrenti sāgaraṃ
+Yathā ― vā ― rivahā ― pū ― rā ― paripū ― ren ― ti sā ― garaṃ ― ―
 
 <div class="english">
 
@@ -29,7 +29,7 @@ Yathā vāri-vahā pūrā paripūrenti sāgaraṃ
 
 </div>
 
-Evam-eva ito dinnaṃ petānaṃ upakappati
+E ― vame ― va ito ― din ― naṃ ― pe ― tā ― naṃ ― upakap ― pati ― ―
 
 <div class="english">
 
@@ -39,7 +39,7 @@ Evam-eva ito dinnaṃ petānaṃ upakappati
 
 *Khp.VII.v8*
 
-Icchitaṃ patthitaṃ tumhaṃ
+Ic ― chitaṃ ― pat ― thitaṃ ― tum ― haṃ ― ―
 
 <div class="english">
 
@@ -47,7 +47,7 @@ Icchitaṃ patthitaṃ tumhaṃ
 
 </div>
 
-Khippam-eva samijjhatu
+Khip ― pame ― va samij ― jhatu ― ―
 
 <div class="english">
 
@@ -55,7 +55,7 @@ Khippam-eva samijjhatu
 
 </div>
 
-Sabbe pūrentu saṅkappā
+Sab ― be ― pū ― ren ― tu saṅ ― kap ― pā ― ―
 
 <div class="english">
 
@@ -63,7 +63,7 @@ Sabbe pūrentu saṅkappā
 
 </div>
 
-Cando paṇṇaraso yathā
+Can ― do ― paṇ ― ṇaraso ― yathā ― ―
 
 <div class="english">
 
@@ -71,7 +71,7 @@ Cando paṇṇaraso yathā
 
 </div>
 
-Maṇi jotiraso yathā
+Maṇi jo ― tiraso ― yathā ― ―
 
 <div class="english">
 
@@ -89,7 +89,7 @@ Sabb'ītiyo vivajjantu
 
 </div>
 
-Sabba-rogo vinassatu
+Sab ― baro ― go ― vinas ― satu ― ―
 
 <div class="english">
 
@@ -97,7 +97,7 @@ Sabba-rogo vinassatu
 
 </div>
 
-Mā te bhavatv-antarāyo
+Mā ― te ― bhavat ― van ― tarā ― yo ― ―
 
 <div class="english">
 
@@ -105,7 +105,7 @@ Mā te bhavatv-antarāyo
 
 </div>
 
-Sukhī dīgh'āyuko bhava
+Sukhī ― dī ― ghā ― yuko ― bhava ― ―
 
 <div class="english">
 
@@ -113,10 +113,10 @@ Sukhī dīgh'āyuko bhava
 
 </div>
 
-Abhivādana-sīlissa\
-Niccaṃ vuḍḍhāpacāyino\
-Cattāro dhammā vaḍḍhanti\
-Āyu vaṇṇo sukhaṃ balaṃ
+Abhivā ― danasī ― lis ― sa\
+Nic ― caṃ ― vuḍ ― ḍhā ― pacā ― yino ― \
+Cat ― tā ― ro ― dham ― mā ― vaḍ ― ḍhan ― ti\
+Ā ― yu vaṇ ― ṇo ― sukhaṃ ― balaṃ ― ―
 
 <div class="english">
 
@@ -129,7 +129,7 @@ Cattāro dhammā vaḍḍhanti\
 
 *Dhp 109*
 
-Bhavatu sabba-maṅgalaṃ
+Bhavatu sab ― bamaṅ ― galaṃ ― ―
 
 <div class="english">
 
@@ -137,7 +137,7 @@ Bhavatu sabba-maṅgalaṃ
 
 </div>
 
-Rakkhantu sabba-devatā
+Rak ― khan ― tu sab ― bade ― vatā ― ―
 
 <div class="english">
 
@@ -145,7 +145,7 @@ Rakkhantu sabba-devatā
 
 </div>
 
-Sabba-buddhānubhāvena
+Sab ― babud ― dhā ― nubhā ― ve ― na ― ―
 
 <div class="english">
 
@@ -153,7 +153,7 @@ Sabba-buddhānubhāvena
 
 </div>
 
-Sadā sotthī bhavantu te
+Sadā ― sot ― thī ― bhavan ― tu te ― ―
 
 <div class="english">
 
@@ -161,7 +161,7 @@ Sadā sotthī bhavantu te
 
 </div>
 
-Bhavatu sabba-maṅgalaṃ
+Bhavatu sab ― bamaṅ ― galaṃ ― ―
 
 <div class="english">
 
@@ -169,7 +169,7 @@ Bhavatu sabba-maṅgalaṃ
 
 </div>
 
-Rakkhantu sabba-devatā
+Rak ― khan ― tu sab ― bade ― vatā ― ―
 
 <div class="english">
 
@@ -177,7 +177,7 @@ Rakkhantu sabba-devatā
 
 </div>
 
-Sabba-dhammānubhāvena
+Sab ― badham ― mā ― nubhā ― ve ― na ― ―
 
 <div class="english">
 
@@ -185,7 +185,7 @@ Sabba-dhammānubhāvena
 
 </div>
 
-Sadā sotthī bhavantu te
+Sadā ― sot ― thī ― bhavan ― tu te ― ―
 
 <div class="english">
 
@@ -193,7 +193,7 @@ Sadā sotthī bhavantu te
 
 </div>
 
-Bhavatu sabba-maṅgalaṃ
+Bhavatu sab ― bamaṅ ― galaṃ ― ―
 
 <div class="english">
 
@@ -201,7 +201,7 @@ Bhavatu sabba-maṅgalaṃ
 
 </div>
 
-Rakkhantu sabba-devatā
+Rak ― khan ― tu sab ― bade ― vatā ― ―
 
 <div class="english">
 
@@ -209,7 +209,7 @@ Rakkhantu sabba-devatā
 
 </div>
 
-Sabba-saṅghānubhāvena
+Sab ― basaṅ ― ghā ― nubhā ― ve ― na ― ―
 
 <div class="english">
 
@@ -217,7 +217,7 @@ Sabba-saṅghānubhāvena
 
 </div>
 
-Sadā sotthī bhavantu te
+Sadā ― sot ― thī ― bhavan ― tu te ― ―
 
 <div class="english">
 
@@ -233,17 +233,17 @@ Sadā sotthī bhavantu te
 
 </div>
 
-Sabba-roga-vinimutto\
+Sab ― baro ― gavinimut ― to ― \
 <span class="vin"></span>sabba-santāpa-vajjito\
-Sabba-veram-atikkanto\
+Sab ― bave ― ramatik ― kan ― to ― \
 <span class="vin"></span>nibbuto ca tuvam-bhava\
-Sabb'ītiyo vivajjantu\
+Sab ― bī ― tiyo ― vivaj ― jan ― tu\
 <span class="vin"></span>sabba-rogo vinassatu\
-Mā te bhavatv-antarāyo\
+Mā ― te ― bhavat ― van ― tarā ― yo ― \
 <span class="vin"></span>sukhī dīgh'āyuko bhava\
-Abhivādana-sīlissa\
+Abhivā ― danasī ― lis ― sa\
 <span class="vin"></span>niccaṃ vuḍḍhāpacāyino\
-Cattāro dhammā vaḍḍhanti\
+Cat ― tā ― ro ― dham ― mā ― vaḍ ― ḍhan ― ti\
 <span class="vin"></span>āyu vaṇṇo sukhaṃ balaṃ
 
 *Dhp 109*
@@ -259,13 +259,13 @@ Cattāro dhammā vaḍḍhanti\
 
 ## Bhojana-dānānumodanā<a id="bhojana"></a>
 
-Āyu-do bala-do dhīro\
+Ā ― yudo ― balado ― dhī ― ro ― \
 <span class="vin"></span>vaṇṇa-do paṭibhāṇa-do\
-Sukhassa dātā medhāvī\
+Sukhas ― sa dā ― tā ― me ― dhā ― vī ― \
 <span class="vin"></span>sukhaṃ so adhigacchati\
-Āyuṃ datvā balaṃ vaṇṇaṃ\
+Ā ― yuṃ ― dat ― vā ― balaṃ ― vaṇ ― ṇaṃ ― \
 <span class="vin"></span>sukhañ-ca paṭibhāna-do\
-Dīgh'āyu yasavā hoti\
+Dī ― ghā ― yu yasavā ― ho ― ti ― ― \
 <span class="vin"></span>yattha yatthūpapajjatī'ti
 
 <div class="english">
@@ -281,22 +281,22 @@ Dīgh'āyu yasavā hoti\
 
 ## Aggappasāda-sutta-gāthā<a id="aggappasada"></a>
 
-Aggato ve pasannānaṃ\
-<span class="vin"></span>aggaṃ dhammaṃ vijānataṃ\
-Agge Buddhe pasannānaṃ\
-<span class="vin"></span>dakkhiṇeyye anuttare\
-Agge dhamme pasannānaṃ\
-<span class="vin"></span>virāgūpasame sukhe\
-Agge saṅghe pasannānaṃ\
-<span class="vin"></span>puññakkhette anuttare\
-Aggasmiṃ dānaṃ dadataṃ\
-<span class="vin"></span>aggaṃ puññaṃ pavaḍḍhati\
-Aggaṃ āyu ca vaṇṇo ca\
-<span class="vin"></span>yaso kitti sukhaṃ balaṃ\
-Aggassa dātā medhāvī\
-<span class="vin"></span>agga-dhamma-samāhito\
-Deva-bhūto manusso vā\
-<span class="vin"></span>aggappatto pamodatī'ti
+Ag ― gato ― ve ― pasan ― nā ― naṃ ― \
+<span class="vin"></span>ag ― gaṃ ― dham ― maṃ ― vijā ― nataṃ ― \
+Ag ― ge ― Bud ― dhe ― pasan ― nā ― naṃ ― \
+<span class="vin"></span>dak ― khiṇey ― ye ― anut ― tare ― \
+Ag ― ge ― dham ― me ― pasan ― nā ― naṃ ― \
+<span class="vin"></span>virā ― gū ― pasame ― sukhe ― \
+Ag ― ge ― saṅ ― ghe ― pasan ― nā ― naṃ ― \
+<span class="vin"></span>puñ ― ñak ― khet ― te ― anut ― tare ― \
+Ag ― gas ― miṃ ― dā ― naṃ ― dadataṃ ― \
+<span class="vin"></span>ag ― gaṃ ― puñ ― ñaṃ ― pavaḍ ― ḍhati\
+Ag ― gaṃ ― ā ― yu ca vaṇ ― ṇo ― ca\
+<span class="vin"></span>yaso ― kit ― ti sukhaṃ ― balaṃ ― \
+Ag ― gas ― sa dā ― tā ― me ― dhā ― vī ― \
+<span class="vin"></span>ag ― gadham ― masamā ― hito ― \
+De ― vabhū ― to ― manus ― so ― vā ― \
+<span class="vin"></span>ag ― gap ― pat ― to ― pamo ― datī ―ti ― ―
 
 <div class="english">
 
